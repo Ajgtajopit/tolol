@@ -1,8 +1,8 @@
 #-*-coding:utf-8-*-
-# Dilarang Keras Untuk Memperjual belikan tools iini
-# Copyright: Deray
-# Ask me on facebook: facebook.com/achmad.luthfi.hadi.3
-# rebuild copyright can't make u real programmer :)
+#
+#
+#
+#
 
 import os
 import sys
