@@ -5,13 +5,16 @@
 #hay
 import os
 import sys
-import random                                                                      import requests                                                                    from getpass import getpass
+import random                                                                      
+import requests                                                                    
+from getpass import getpass
 from multiprocessing.pool import ThreadPool
 
 W = '\033[1;37m'
 N = '\033[0m'
 R = '\033[1;37m\033[31m'
-B = '\033[1;37m\033[34m'                                                           G = '\033[1;32m'
+B = '\033[1;37m\033[34m'                                                           
+G = '\033[1;32m'
 O = '\033[33m'
 C = '\033[36m'
 
