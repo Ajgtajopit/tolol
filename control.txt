@@ -1,2 +1,2 @@
-
+rm -rf multiresult.txt
 Heyyy memek kau ini
