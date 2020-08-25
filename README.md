@@ -1,3 +1,5 @@
 # tolol
 Tolol for tolol
-Hahahahhahaha 
+Hahahahhaha
+Anjing tasopit kalau kesusahaan di keluarkan lidah
+Kalau ada mana ada
